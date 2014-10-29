@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ooo="http://xml.openoffice.org/svg/export"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3000"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="graftm_logo.svg"
+   inkscape:export-filename="/home/uqmimelf/working/tmp/M_logos/graftm_logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <g
+       transform="scale(0.00048828125,-0.00048828125)"
+       id="bullet-char-template(8211)">
+      <path
+         id="path3705"
+         d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z" />
+    </g>
+    <g
+       transform="scale(0.00048828125,-0.00048828125)"
+       id="bullet-char-template(8226)">
+      <path
+         id="path3702"
+         d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z" />
+    </g>
+    <g
+       transform="scale(0.00048828125,-0.00048828125)"
+       id="bullet-char-template(9679)">
+      <path
+         id="path3699"
+         d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z" />
+    </g>
+    <g
+       transform="scale(0.00048828125,-0.00048828125)"
+       id="bullet-char-template(10004)">
+      <path
+         id="path3696"
+         d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z" />
+    </g>
+    <g
+       transform="scale(0.00048828125,-0.00048828125)"
+       id="bullet-char-template(10007)">
+      <path
+         id="path3693"
+         d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z" />
+    </g>
+    <g
+       transform="scale(0.00048828125,-0.00048828125)"
+       id="bullet-char-template(10132)">
+      <path
+         id="path3690"
+         d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z" />
+    </g>
+    <g
+       transform="scale(0.00048828125,-0.00048828125)"
+       id="bullet-char-template(10146)">
+      <path
+         id="path3687"
+         d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z" />
+    </g>
+    <g
+       transform="scale(0.00048828125,-0.00048828125)"
+       id="bullet-char-template(57354)">
+      <path
+         id="path3684"
+         d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z" />
+    </g>
+    <g
+       transform="scale(0.00048828125,-0.00048828125)"
+       id="bullet-char-template(57356)">
+      <path
+         id="path3681"
+         d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z" />
+    </g>
+    <g
+       id="g3676"
+       ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38"
+       ooo:slide="id1" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="presentation_clip_path">
+      <rect
+         id="rect3672"
+         height="29700"
+         width="21000"
+         y="0"
+         x="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.40333333"
+     inkscape:cx="1456.6116"
+     inkscape:cy="69.924056"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="694"
+     inkscape:window-x="-7"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36218)">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:29.57933807;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2987"
+       sodipodi:cx="434.3656"
+       sodipodi:cy="432.31467"
+       sodipodi:rx="373.75644"
+       sodipodi:ry="373.75644"
+       d="m 808.12204,432.31467 c 0,206.41998 -167.33646,373.75644 -373.75644,373.75644 -206.41998,0 -373.756439,-167.33646 -373.756439,-373.75644 0,-206.41998 167.336459,-373.756442 373.756439,-373.756442 206.41998,0 373.75644,167.336462 373.75644,373.756442 z"
+       transform="matrix(0.74207836,0,0,0.74207836,-8.942354,431.55082)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:21.95018578;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 2440.5411,475.00561 c 153.1798,0 277.3566,124.17677 277.3566,277.35657 0,153.1798 -124.1768,277.35652 -277.3566,277.35652"
+       id="path2987-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:22;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 2441.7946,1029.6938 -2119.73358,0"
+       id="path3794"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:22;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 322.06102,475.03052 2119.73358,0"
+       id="rect3789"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+       id="g3982"
+       transform="matrix(0.03543307,0,0,0.03543307,-138.17366,872.70387)">
+      <g
+         id="g3709">
+        <g
+           class="Master_Slide"
+           id="id2">
+          <g
+             class="Background"
+             id="bg-id2" />
+          <g
+             class="BackgroundObjects"
+             id="bo-id2" />
+        </g>
+      </g>
+      <g
+         id="g3714"
+         class="SlideGroup">
+        <g
+           id="g3716">
+          <g
+             clip-path="url(#presentation_clip_path)"
+             class="Slide"
+             id="id1" />
+        </g>
+        <g
+           style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+           id="g3719"
+           class="Page"
+           transform="matrix(1.3163408,0,0,1.3163408,2020.4103,-46301.013)">
+          <g
+             id="g4148" />
+          <g
+             id="g4378"
+             transform="translate(-798.24501,19842.09)">
+            <g
+               transform="translate(-3.5635938,0)"
+               id="g4177">
+              <g
+                 id="g3873"
+                 class="Group"
+                 transform="matrix(0.94698693,-0.3212721,0.3212721,0.94698693,-9852.1726,6688.3556)">
+                <g
+                   id="g3875"
+                   class="com.sun.star.drawing.ClosedBezierShape">
+                  <g
+                     id="id27">
+                    <path
+                       id="path3878"
+                       d="m 15248,6675 c -499,541 38,1174 38,1174 l -38,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:#a6d854;stroke:none" />
+                    <path
+                       id="path3880"
+                       d="m 15248,6675 c -499,541 38,1174 38,1174 l -38,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round" />
+                  </g>
+                </g>
+                <g
+                   id="g3882"
+                   class="com.sun.star.drawing.ClosedBezierShape">
+                  <g
+                     id="id28">
+                    <path
+                       id="path3885"
+                       d="m 15273,6675 c 500,541 -37,1174 -37,1174 l 37,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:#a6d854;stroke:none" />
+                    <path
+                       id="path3887"
+                       d="m 15273,6675 c 500,541 -37,1174 -37,1174 l 37,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3721"
+                 class="com.sun.star.drawing.LineShape">
+                <g
+                   id="id3">
+                  <path
+                     id="path3724"
+                     d="m 7108,9172 0,1725"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round" />
+                </g>
+              </g>
+            </g>
+            <g
+               transform="translate(-4.0090429,0)"
+               id="g4191">
+              <g
+                 id="g3793"
+                 class="Group"
+                 transform="matrix(0.96373639,0.26685608,-0.26685608,0.96373639,-2178.4067,-5217.435)">
+                <g
+                   id="g3795"
+                   class="com.sun.star.drawing.ClosedBezierShape">
+                  <g
+                     id="id17">
+                    <path
+                       id="path3798"
+                       d="m 14481,9743 c -500,541 37,1174 37,1174 l -37,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:#a6d854;stroke:none" />
+                    <path
+                       id="path3800"
+                       d="m 14481,9743 c -500,541 37,1174 37,1174 l -37,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round" />
+                  </g>
+                </g>
+                <g
+                   id="g3802"
+                   class="com.sun.star.drawing.ClosedBezierShape">
+                  <g
+                     id="id18">
+                    <path
+                       id="path3805"
+                       d="m 14506,9743 c 499,541 -38,1174 -38,1174 l 38,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:#a6d854;stroke:none" />
+                    <path
+                       id="path3807"
+                       d="m 14506,9743 c 499,541 -38,1174 -38,1174 l 38,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3889"
+                 class="Group"
+                 transform="matrix(0.48490612,0.87456621,-0.87456621,0.48490612,10040.701,-8037.5536)">
+                <g
+                   id="g3891"
+                   class="com.sun.star.drawing.ClosedBezierShape">
+                  <g
+                     id="id29">
+                    <path
+                       id="path3894"
+                       d="m 14481,8209 c -500,541 37,1174 37,1174 l -37,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:#a6d854;stroke:none" />
+                    <path
+                       id="path3896"
+                       d="m 14481,8209 c -500,541 37,1174 37,1174 l -37,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round" />
+                  </g>
+                </g>
+                <g
+                   id="g3898"
+                   class="com.sun.star.drawing.ClosedBezierShape">
+                  <g
+                     id="id30">
+                    <path
+                       id="path3901"
+                       d="m 14506,8209 c 499,541 -38,1174 -38,1174 l 38,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:#a6d854;stroke:none" />
+                    <path
+                       id="path3903"
+                       d="m 14506,8209 c 499,541 -38,1174 -38,1174 l 38,-615 0,-559 z"
+                       inkscape:connector-curvature="0"
+                       style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3726"
+                 class="com.sun.star.drawing.LineShape">
+                <g
+                   id="id4">
+                  <path
+                     id="path3729"
+                     d="m 8900,9172 0,1725"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round" />
+                </g>
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.LineShape"
+               id="g3731">
+              <g
+                 id="id5">
+                <path
+                   style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round"
+                   inkscape:connector-curvature="0"
+                   d="m 7004,10988 1992,0"
+                   id="path3734" />
+              </g>
+            </g>
+            <g
+               transform="matrix(0.91796194,0.39666848,-0.39666848,0.91796194,1501.74,-5836.4615)"
+               class="Group"
+               id="g3809">
+              <g
+                 class="com.sun.star.drawing.ClosedBezierShape"
+                 id="g3811">
+                <g
+                   id="id19">
+                  <path
+                     style="fill:#a6d854;stroke:none"
+                     inkscape:connector-curvature="0"
+                     d="m 16015,9743 c -499,541 38,1174 38,1174 l -38,-615 0,-559 z"
+                     id="path3814" />
+                  <path
+                     style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round"
+                     inkscape:connector-curvature="0"
+                     d="m 16015,9743 c -499,541 38,1174 38,1174 l -38,-615 0,-559 z"
+                     id="path3816" />
+                </g>
+              </g>
+              <g
+                 class="com.sun.star.drawing.ClosedBezierShape"
+                 id="g3818">
+                <g
+                   id="id20">
+                  <path
+                     style="fill:#a6d854;stroke:none"
+                     inkscape:connector-curvature="0"
+                     d="m 16040,9743 c 500,541 -37,1174 -37,1174 l 37,-615 0,-559 z"
+                     id="path3821" />
+                  <path
+                     style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round"
+                     inkscape:connector-curvature="0"
+                     d="m 16040,9743 c 500,541 -37,1174 -37,1174 l 37,-615 0,-559 z"
+                     id="path3823" />
+                </g>
+              </g>
+            </g>
+            <g
+               transform="matrix(1,0,0,0.80806362,5.3453907,2283.4671)"
+               id="g3743"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id7">
+                <path
+                   id="path3746"
+                   d="m 11900,10172 0,1725"
+                   inkscape:connector-curvature="0"
+                   style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round" />
+              </g>
+            </g>
+            <g
+               id="g3748"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id8">
+                <path
+                   id="path3751"
+                   d="m 10004,11988 1992,0"
+                   inkscape:connector-curvature="0"
+                   style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round" />
+              </g>
+            </g>
+            <g
+               id="g3825"
+               class="Group"
+               transform="matrix(0.83474393,0.55063815,-0.55063815,0.83474393,-652.71002,-6157.8799)"
+               style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round">
+              <g
+                 id="g3827"
+                 class="com.sun.star.drawing.ClosedBezierShape">
+                <g
+                   id="id21">
+                  <path
+                     id="path3830"
+                     d="m 15248,9743 c -499,541 38,1174 38,1174 l -38,-615 0,-559 z"
+                     inkscape:connector-curvature="0"
+                     style="fill:#a6d854;stroke:none" />
+                  <path
+                     id="path3832"
+                     d="m 15248,9743 c -499,541 38,1174 38,1174 l -38,-615 0,-559 z"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round" />
+                </g>
+              </g>
+              <g
+                 id="g3834"
+                 class="com.sun.star.drawing.ClosedBezierShape">
+                <g
+                   id="id22">
+                  <path
+                     id="path3837"
+                     d="m 15273,9743 c 500,541 -37,1174 -37,1174 l 37,-615 0,-559 z"
+                     inkscape:connector-curvature="0"
+                     style="fill:#a6d854;stroke:none" />
+                  <path
+                     id="path3839"
+                     d="m 15273,9743 c 500,541 -37,1174 -37,1174 l 37,-615 0,-559 z"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round" />
+                </g>
+              </g>
+            </g>
+            <g
+               id="g3841"
+               class="Group"
+               transform="matrix(0.87581178,-0.48265251,0.48265251,0.87581178,-10398.765,11482.091)"
+               style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round">
+              <g
+                 id="g3843"
+                 class="com.sun.star.drawing.ClosedBezierShape">
+                <g
+                   id="id23">
+                  <path
+                     id="path3846"
+                     d="m 14481,6675 c -500,541 37,1174 37,1174 l -37,-615 0,-559 z"
+                     inkscape:connector-curvature="0"
+                     style="fill:#a6d854;stroke:none" />
+                  <path
+                     id="path3848"
+                     d="m 14481,6675 c -500,541 37,1174 37,1174 l -37,-615 0,-559 z"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round" />
+                </g>
+              </g>
+              <g
+                 id="g3850"
+                 class="com.sun.star.drawing.ClosedBezierShape">
+                <g
+                   id="id24">
+                  <path
+                     id="path3853"
+                     d="m 14506,6675 c 499,541 -38,1174 -38,1174 l 38,-615 0,-559 z"
+                     inkscape:connector-curvature="0"
+                     style="fill:#a6d854;stroke:none" />
+                  <path
+                     id="path3855"
+                     d="m 14506,6675 c 499,541 -38,1174 -38,1174 l 38,-615 0,-559 z"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round" />
+                </g>
+              </g>
+            </g>
+            <g
+               id="g3753"
+               class="com.sun.star.drawing.LineShape"
+               transform="matrix(1,0,0,0.84331727,370.77736,2005.0693)"
+               style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round">
+              <g
+                 id="id9">
+                <path
+                   id="path3756"
+                   d="m 5708,11072 0,1725"
+                   inkscape:connector-curvature="0"
+                   style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round" />
+              </g>
+            </g>
+            <g
+               id="g3758"
+               class="com.sun.star.drawing.LineShape"
+               transform="translate(-5.0396423,0)"
+               style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round">
+              <g
+                 id="id10">
+                <path
+                   id="path3761"
+                   d="m 8000,11072 0,1725"
+                   inkscape:connector-curvature="0"
+                   style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round" />
+              </g>
+            </g>
+            <g
+               transform="matrix(0.84584768,0,0,1,1248.0173,0)"
+               id="g3763"
+               class="com.sun.star.drawing.LineShape"
+               style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round">
+              <g
+                 id="id11">
+                <path
+                   id="path3766"
+                   d="m 5603,12888 2493,0"
+                   inkscape:connector-curvature="0"
+                   style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round" />
+              </g>
+            </g>
+            <g
+               transform="matrix(1,0,0,0.73363931,1.8898811,3454.9646)"
+               class="com.sun.star.drawing.LineShape"
+               id="g3768">
+              <g
+                 id="id12">
+                <path
+                   style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round"
+                   inkscape:connector-curvature="0"
+                   d="m 7202,12971 0,1725"
+                   id="path3771" />
+              </g>
+            </g>
+            <g
+               transform="matrix(1,0,0,0.75860708,0,2915.0609)"
+               class="com.sun.star.drawing.LineShape"
+               id="g3773">
+              <g
+                 id="id13">
+                <path
+                   style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round"
+                   inkscape:connector-curvature="0"
+                   d="m 11000,12076 0,2620"
+                   id="path3776" />
+              </g>
+            </g>
+            <g
+               transform="translate(0,-620.88891)"
+               class="com.sun.star.drawing.LineShape"
+               id="g3778">
+              <g
+                 id="id14">
+                <path
+                   style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round"
+                   inkscape:connector-curvature="0"
+                   d="m 7104,14787 3995,0"
+                   id="path3781" />
+              </g>
+            </g>
+            <g
+               transform="matrix(0.88531053,0.46500029,-0.46500029,0.88531053,278.4465,-5012.6265)"
+               class="Group"
+               id="g3905">
+              <g
+                 class="com.sun.star.drawing.ClosedBezierShape"
+                 id="g3907">
+                <g
+                   id="id31">
+                  <path
+                     style="fill:#a6d854;stroke:none"
+                     inkscape:connector-curvature="0"
+                     d="m 16015,8209 c -499,541 38,1174 38,1174 l -38,-615 0,-559 z"
+                     id="path3910" />
+                  <path
+                     style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round"
+                     inkscape:connector-curvature="0"
+                     d="m 16015,8209 c -499,541 38,1174 38,1174 l -38,-615 0,-559 z"
+                     id="path3912" />
+                </g>
+              </g>
+              <g
+                 class="com.sun.star.drawing.ClosedBezierShape"
+                 id="g3914">
+                <g
+                   id="id32">
+                  <path
+                     style="fill:#a6d854;stroke:none"
+                     inkscape:connector-curvature="0"
+                     d="m 16040,8209 c 500,541 -37,1174 -37,1174 l 37,-615 0,-559 z"
+                     id="path3917" />
+                  <path
+                     style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round"
+                     inkscape:connector-curvature="0"
+                     d="m 16040,8209 c 500,541 -37,1174 -37,1174 l 37,-615 0,-559 z"
+                     id="path3919" />
+                </g>
+              </g>
+            </g>
+            <g
+               transform="matrix(0.88906466,-0.45778165,0.45778165,0.88906466,-7752.0726,9401.7859)"
+               class="Group"
+               id="g3921">
+              <g
+                 class="com.sun.star.drawing.ClosedBezierShape"
+                 id="g3923">
+                <g
+                   id="id33">
+                  <path
+                     style="fill:#a6d854;stroke:none"
+                     inkscape:connector-curvature="0"
+                     d="m 15248,8209 c -499,541 38,1174 38,1174 l -38,-615 0,-559 z"
+                     id="path3926" />
+                  <path
+                     style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round"
+                     inkscape:connector-curvature="0"
+                     d="m 15248,8209 c -499,541 38,1174 38,1174 l -38,-615 0,-559 z"
+                     id="path3928" />
+                </g>
+              </g>
+              <g
+                 class="com.sun.star.drawing.ClosedBezierShape"
+                 id="g3930">
+                <g
+                   id="id34">
+                  <path
+                     style="fill:#a6d854;stroke:none"
+                     inkscape:connector-curvature="0"
+                     d="m 15273,8209 c 500,541 -37,1174 -37,1174 l 37,-615 0,-559 z"
+                     id="path3933" />
+                  <path
+                     style="fill:none;stroke:#66a61e;stroke-width:50;stroke-linejoin:round"
+                     inkscape:connector-curvature="0"
+                     d="m 15273,8209 c 500,541 -37,1174 -37,1174 l 37,-615 0,-559 z"
+                     id="path3935" />
+                </g>
+              </g>
+            </g>
+            <g
+               transform="matrix(1,0,0,0.67488327,-23.163359,3867.9137)"
+               id="g3738"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id6">
+                <path
+                   id="path3741"
+                   d="m 10108,10172 0,1725"
+                   inkscape:connector-curvature="0"
+                   style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round" />
+              </g>
+            </g>
+            <g
+               transform="translate(169.83334,-620.88891)"
+               id="g4128">
+              <g
+                 id="g3783"
+                 class="com.sun.star.drawing.OpenBezierShape">
+                <g
+                   id="id15">
+                  <path
+                     id="path3786"
+                     d="m 8263,14721 c -397,2267 -1323,3184 -1323,3184"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round" />
+                </g>
+              </g>
+              <g
+                 id="g3788"
+                 class="com.sun.star.drawing.OpenBezierShape"
+                 transform="translate(-338.66669,0)">
+                <g
+                   id="id16">
+                  <path
+                     id="path3791"
+                     d="m 9939,14721 c 397,2267 1323,3184 1323,3184"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#000000;stroke-width:200;stroke-linejoin:round" />
+                </g>
+              </g>
+              <g
+                 id="g3937"
+                 class="com.sun.star.drawing.OpenBezierShape"
+                 transform="translate(-225.77779,0)">
+                <g
+                   id="id35">
+                  <path
+                     id="path3940"
+                     d="m 8693,16612 c -204,821 -679,1153 -679,1153"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#000000;stroke-width:50;stroke-linejoin:round" />
+                </g>
+              </g>
+              <g
+                 id="g3942"
+                 class="com.sun.star.drawing.OpenBezierShape">
+                <g
+                   id="id36">
+                  <path
+                     id="path3945"
+                     d="m 8580,15554 c -102,632 -340,888 -340,888"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#000000;stroke-width:50;stroke-linejoin:round" />
+                </g>
+              </g>
+              <g
+                 id="g3947"
+                 class="com.sun.star.drawing.OpenBezierShape"
+                 transform="translate(-338.66669,0)">
+                <g
+                   id="id37">
+                  <path
+                     id="path3950"
+                     d="m 9563,15837 c 233,1346 776,1891 776,1891"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#000000;stroke-width:50;stroke-linejoin:round" />
+                </g>
+              </g>
+              <g
+                 id="g3952"
+                 class="com.sun.star.drawing.OpenBezierShape">
+                <g
+                   id="id38"
+                   transform="matrix(0.99097501,-0.13404671,0.13404671,0.99097501,-2121.8337,1344.4525)">
+                  <path
+                     id="path3955"
+                     d="m 9056,15308 c -46,404 -152,567 -152,567"
+                     inkscape:connector-curvature="0"
+                     style="fill:none;stroke:#000000;stroke-width:50;stroke-linejoin:round" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(2.2056508,0,0,2.2056508,340.22428,-1036.9889)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
+       id="flowRoot3168">
+      <path
+         d="m 303.26562,883.24324 c -11.25016,5.46875 -22.92984,9.57031 -35.03906,12.30468 -12.1095,2.73438 -24.60949,4.10156 -37.5,4.10157 -29.1407,-10e-6 -52.22661,-8.125 -69.25781,-24.375 -17.03127,-16.32809 -25.54689,-38.43744 -25.54688,-66.32813 -1e-5,-28.20301 8.67186,-50.39049 26.01563,-66.5625 17.34369,-16.1717 41.09367,-24.25763 71.25,-24.25781 11.6405,1.8e-4 22.77331,1.09393 33.39844,3.28125 10.70297,2.18767 20.78108,5.42986 30.23437,9.72656 l 0,36.21094 c -9.76579,-5.54674 -19.49234,-9.68736 -29.17969,-12.42188 -9.6095,-2.73423 -19.25793,-4.10141 -28.94531,-4.10156 -17.96884,1.5e-4 -31.83602,5.0392 -41.60156,15.11719 -9.68756,10.00012 -14.53131,24.33604 -14.53125,43.00781 -6e-5,18.51569 4.68744,32.81256 14.0625,42.89063 9.37492,10.07816 22.69522,15.11721 39.96094,15.11718 4.68738,3e-5 9.02331,-0.2734 13.00781,-0.82031 4.06237,-0.62497 7.69518,-1.56247 10.89844,-2.8125 l 0,-33.98437 -27.53907,0 0,-30.23438 70.3125,0 0,84.14063"
+         style="font-size:240px;font-weight:bold;font-family:Vemana2000;-inkscape-font-specification:Vemana2000"
+         id="path3177"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 418.5,800.74324 c -3.67199,-1.71866 -7.34386,-2.96866 -11.01563,-3.75 -3.59385,-0.85928 -7.22666,-1.28897 -10.89843,-1.28907 -10.78134,10e-5 -19.10164,3.47666 -24.96094,10.42969 -5.78132,6.87508 -8.67194,16.75789 -8.67188,29.64844 l 0,60.46875 -41.95312,0 0,-131.25 41.95312,0 0,21.5625 c 5.39056,-8.59363 11.56243,-14.84363 18.51563,-18.75 7.03116,-3.98424 15.42959,-5.97643 25.19531,-5.97656 1.40615,1.3e-4 2.92958,0.0783 4.57031,0.23437 1.64052,0.0783 4.02333,0.31264 7.14844,0.70313 L 418.5,800.74324"
+         style="font-size:240px;font-weight:bold;font-family:Vemana2000;-inkscape-font-specification:Vemana2000"
+         id="path3179"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 492.42187,837.18855 c -8.75007,6e-5 -15.35162,1.48443 -19.80468,4.45312 -4.37506,2.96881 -6.56256,7.3438 -6.5625,13.125 -6e-5,5.31254 1.75776,9.49222 5.27343,12.53907 3.59369,2.96877 8.55463,4.45315 14.88282,4.45312 7.89054,3e-5 14.53116,-2.81247 19.92187,-8.4375 5.39053,-5.70309 8.08584,-12.81245 8.08594,-21.32812 l 0,-4.80469 -21.79688,0 m 64.10157,-15.82031 0,74.88281 -42.30469,0 0,-19.45313 c -5.6251,7.96877 -11.95321,13.78907 -18.98438,17.46094 -7.03132,3.59375 -15.586,5.39062 -25.66406,5.39063 -13.59379,-10e-6 -24.64847,-3.94532 -33.16406,-11.83594 -8.43751,-7.96873 -12.65626,-18.28122 -12.65625,-30.9375 -10e-6,-15.39057 5.27342,-26.67962 15.82031,-33.86719 10.62497,-7.18742 27.26557,-10.78116 49.92188,-10.78125 l 24.72656,0 0,-3.28125 c -10e-5,-6.64053 -2.61729,-11.48428 -7.85156,-14.53125 -5.23447,-3.12489 -13.39852,-4.68739 -24.49219,-4.6875 -8.98443,1.1e-4 -17.3438,0.89854 -25.07813,2.69531 -7.73441,1.79698 -14.9219,4.49229 -21.5625,8.08594 l 0,-31.99219 c 8.98435,-2.18737 18.00778,-3.82799 27.07032,-4.92187 9.06244,-1.17174 18.12493,-1.75768 27.1875,-1.75781 23.67177,1.3e-4 40.74207,4.68763 51.21093,14.0625 10.54674,9.29698 15.82017,24.45322 15.82032,45.46875"
+         style="font-size:240px;font-weight:bold;font-family:Vemana2000;-inkscape-font-specification:Vemana2000"
+         id="path3181"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 672.14844,713.9073 0,27.53906 -23.20313,0 c -5.93757,1.6e-4 -10.0782,1.0939 -12.42187,3.28125 -2.34382,2.10953 -3.51569,5.82046 -3.51563,11.13281 l 0,9.14063 35.85938,0 0,30 -35.85938,0 0,101.25 -41.95312,0 0,-101.25 -20.85938,0 0,-30 20.85938,0 0,-9.14063 c -3e-5,-14.29672 3.98434,-24.84358 11.95312,-31.64062 7.96871,-6.87482 20.31244,-10.31232 37.03125,-10.3125 l 32.10938,0"
+         style="font-size:240px;font-weight:bold;font-family:Vemana2000;-inkscape-font-specification:Vemana2000"
+         id="path3183"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 748.13281,727.73542 0,37.26563 43.24219,0 0,30 -43.24219,0 0,55.66406 c -6e-5,6.09379 1.21087,10.23441 3.63281,12.42188 2.42181,2.1094 7.22649,3.16409 14.41407,3.16406 l 21.5625,0 0,30 -35.97657,0 c -16.56255,0 -28.32035,-3.4375 -35.27343,-10.3125 -6.87503,-6.95311 -10.31253,-18.71091 -10.3125,-35.27344 l 0,-55.66406 -20.85938,0 0,-30 20.85938,0 0,-37.26563 41.95312,0"
+         style="font-size:240px;font-weight:bold;font-family:Vemana2000;-inkscape-font-specification:Vemana2000"
+         id="path3185"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 807.03125,721.29011 57.42187,0 39.84375,93.63281 40.07813,-93.63281 57.3047,0 0,174.96094 -42.65626,0 0,-127.96875 -40.3125,94.33594 -28.59375,0 -40.3125,-94.33594 0,127.96875 -42.77344,0 0,-174.96094"
+         style="font-size:240px;font-weight:bold;font-family:Vemana2000;-inkscape-font-specification:Vemana2000"
+         id="path3187"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
